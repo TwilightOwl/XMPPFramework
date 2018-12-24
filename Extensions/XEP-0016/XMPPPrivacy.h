@@ -1,7 +1,7 @@
 #import <Foundation/Foundation.h>
 #import "XMPPModule.h"
 
-#import "KissXML.h";
+@import KissXML;
 
 #define _XMPP_PRIVACY_H
 

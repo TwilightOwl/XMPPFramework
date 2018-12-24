@@ -4,7 +4,7 @@
 #import "GCDMulticastDelegate.h"
 #import "CocoaAsyncSocket/GCDAsyncSocket.h"
 
-#import "KissXML.h";
+@import KissXML;
 
 @class XMPPSRVResolver;
 @class XMPPParser;
