@@ -6,7 +6,7 @@
 
 @import XMPPFramework;
 #import "GCDAsyncSocket.h";
-@import CocoaLumberjack;
+#import "CocoaLumberjack.h";
 
 //Log levels: off, error, warn, info, verbose
 #if DEBUG
