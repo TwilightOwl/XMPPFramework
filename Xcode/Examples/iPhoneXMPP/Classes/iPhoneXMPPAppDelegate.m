@@ -5,7 +5,7 @@
 #import <CFNetwork/CFNetwork.h>
 
 @import XMPPFramework;
-@import CocoaAsyncSocket;
+#import "GCDAsyncSocket.h";
 @import CocoaLumberjack;
 
 //Log levels: off, error, warn, info, verbose
